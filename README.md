@@ -189,7 +189,7 @@ cout << "O Máximo Divisor Comum (MDC) de " << num1 << " e " << num2 << " é: " 
 return 0;
 }
 
-1-
+18-
 #include using namespace std;
 int main() { int num1, num2;
 
